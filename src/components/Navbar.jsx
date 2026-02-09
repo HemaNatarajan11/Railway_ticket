@@ -20,7 +20,7 @@ const Navbar = () => {
 
           {/* Hamburger Menu */}
           <button
-            className="lg:hidden text-3xl text-black ml-64"
+            className="lg:hidden text-3xl text-black ml-4"
             onClick={() => setIsOpen(!isOpen)}
           >
             ☰
