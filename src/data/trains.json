@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "trainNo": "12601",
+    "name": "Chennai Express",
+    "from": "Chennai",
+    "to": "Bangalore",
+    "departure": "06:00",
+    "arrival": "14:30",
+    "duration": "8h 30m",
+    "class": "Sleeper",
+    "available": true,
+    "fare": 450
+  },
+  {
+    "id": 2,
+    "trainNo": "12028",
+    "name": "Shatabdi Express",
+    "from": "Chennai",
+    "to": "Bangalore",
+    "departure": "07:15",
+    "arrival": "12:45",
+    "duration": "5h 30m",
+    "class": "3A",
+    "available": false,
+    "fare": 900
+  },
+  {
+    "id": 3,
+    "trainNo": "12639",
+    "name": "Brindavan Express",
+    "from": "Chennai",
+    "to": "Bangalore",
+    "departure": "17:30",
+    "arrival": "23:00",
+    "duration": "5h 30m",
+    "class": "2A",
+    "available": true,
+    "fare": 500
+  }
+]
