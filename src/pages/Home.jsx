@@ -5,7 +5,6 @@ import train from "../assets/train.jpeg"; // your hero image
 const Home = () => {
   return (
     <div className="relative w-full">
-      {/* Navbar */}
       <Navbar />
 
       <div className="relative h-screen w-full overflow-hidden">
@@ -16,10 +15,9 @@ const Home = () => {
           className="absolute inset-0 h-full w-full object-cover"
         />
 
-        {/* Overlay for better text readability */}
         <div className="absolute inset-0 bg-black/30 z-10"></div>
 
-        {/* Hero Text - Centered */}
+        {/* Hero Text */}
         <div className="absolute inset-0 z-20 flex flex-col items-center justify-center text-center px-4">
           <h1 className="text-white text-4xl md:text-5xl font-bold mb-4">
             Connect with RailConnect

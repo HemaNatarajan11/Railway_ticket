@@ -32,7 +32,6 @@ const Login = () => {
         className="min-h-screen flex items-center justify-center bg-cover bg-center pt-[140px]"
         style={{ backgroundImage: `url(${background})` }}
       >
-        {/* Semi-transparent card */}
         <div className="bg-white/50 p-8 rounded-xl shadow-lg w-full max-w-md backdrop-blur-md">
           <h2 className="text-3xl font-bold text-center mb-6 text-gray-900">
             Login to Continue

@@ -52,7 +52,6 @@ const CancelRefundTrain = () => {
         className="min-h-screen flex items-center justify-center bg-cover bg-center pt-[180px] px-4"
         style={{ backgroundImage: `url(${background})` }}
       >
-        {/* Main Card */}
         <div className="bg-white/50 backdrop-blur-md rounded-2xl shadow-2xl w-full max-w-4xl p-10 space-y-6">
           <h2 className="text-4xl font-extrabold text-center text-gray-800 mb-6">
             Train Cancellation & Refund

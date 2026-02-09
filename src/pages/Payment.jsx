@@ -32,7 +32,7 @@ const Payment = () => {
         <div className="max-w-4xl mx-auto bg-white rounded-xl shadow-lg p-8">
           <h2 className="text-3xl font-bold mb-6 text-gray-800">Payment</h2>
 
-          {/* Train Summary */}
+          {/* Train details */}
           <div className="bg-blue-50 border border-blue-200 rounded-lg p-5 mb-8">
             <h3 className="text-xl font-semibold text-blue-800">
               {train.name} ({train.trainNo})

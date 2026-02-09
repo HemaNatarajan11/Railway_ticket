@@ -28,7 +28,7 @@ const Register = () => {
       return;
     }
 
-    // Save user data in localStorage (demo purpose)
+    // Save user data in localStorage
     localStorage.setItem("registeredUser", JSON.stringify(user));
     alert("Registration successful!");
 
